@@ -33,6 +33,7 @@ namespace modul8_1302204070.Controllers
             // DELETE api/<MoviesController>/5
             [HttpDelete("{id}")]
             public void Delete(int id)
+                //Saya msh belum etrlalu faham kak XD
             {
             }
         }
